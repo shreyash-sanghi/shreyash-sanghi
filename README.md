@@ -1,16 +1,24 @@
-### Hi there 👋
+  A passionate MERN Stack Developer!
 
-<!--
-**shreyash-sanghi/shreyash-sanghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 About Me:
+- 💻 I'm proficient in building full-stack web applications using the MERN (MongoDB, Express.js, React, Node.js) stack.
+- 🌐 Experienced in designing and implementing RESTful APIs for seamless communication between the front-end and back-end.
+- 🎨 Skilled in creating responsive and user-friendly interfaces with modern UI libraries and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+- Frontend: React, Redux, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB, Mongoose
+- Mobile: React Native
+- Tools: Git, npm
+
+
+🔗 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/shreyash-jain-b43572286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+📫 How to Reach Me:
+- 📧 Email: shreyash123jain@gmail.com
+
+👀 Check out my repositories below and feel free to explore the projects I've been working on! If you have any questions or collaboration ideas, don't hesitate to reach out. Happy coding! 🚀
+
