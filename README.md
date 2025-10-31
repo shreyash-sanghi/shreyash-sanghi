@@ -107,23 +107,6 @@ Microservices-based chat app with OTP authentication and real-time messaging.
 </p>
 
 ---
-
-<h3 align="center">🏅 GitHub Achievements</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyash-sanghi&theme=algolia&row=1&column=6" />
-</p>
-
----
-
-<h3 align="center">📈 Profile Visitors</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyash-sanghi&label=Profile%20Views&color=0e75b6&style=flat" alt="shreyash-sanghi" />
-</p>
-
----
-
 <p align="center">
   ⭐️ From <a href="https://github.com/shreyash-sanghi">Shreyash Jain</a>
 </p>
